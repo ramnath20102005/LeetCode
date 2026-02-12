@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ramnath20102005/LeetCode/tree/master/0001-two-sum) |
+| [2079-watering-plants](https://github.com/ramnath20102005/LeetCode/tree/master/2079-watering-plants) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ramnath20102005/LeetCode/tree/master/0002-add-two-numbers) |
+## Simulation
+|  |
+| ------- |
+| [2079-watering-plants](https://github.com/ramnath20102005/LeetCode/tree/master/2079-watering-plants) |
 <!---LeetCode Topics End-->
