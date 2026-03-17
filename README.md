@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ramnath20102005/LeetCode/tree/master/0001-two-sum) |
+| [0200-number-of-islands](https://github.com/ramnath20102005/LeetCode/tree/master/0200-number-of-islands) |
 | [2079-watering-plants](https://github.com/ramnath20102005/LeetCode/tree/master/2079-watering-plants) |
 ## Hash Table
 |  |
@@ -26,4 +27,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2079-watering-plants](https://github.com/ramnath20102005/LeetCode/tree/master/2079-watering-plants) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ramnath20102005/LeetCode/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ramnath20102005/LeetCode/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ramnath20102005/LeetCode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ramnath20102005/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
